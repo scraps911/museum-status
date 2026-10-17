@@ -1,0 +1,99 @@
+{
+  "format": "museum-status/1",
+  "made": "2026-10-17T17:28:18-04:00",
+  "summary": "Nothing needs help",
+  "counts": {
+    "playing": 0,
+    "off": 0,
+    "stopped": 0,
+    "recovering": 0,
+    "needs_help": 0,
+    "no_answer": 0,
+    "qlab_not_ready": 0,
+    "manual": 1,
+    "on_hold": 1,
+    "not_set_up": 8
+  },
+  "pieces": [
+    {
+      "id": "2f-marcon-arrivederci-piggies",
+      "floor": "2",
+      "piece": "Marcon: Ludwig (2018), The Parents' Room (2021), Fritz (2024), Krapfen (2025)",
+      "playback": "Mac Studio",
+      "state": "ON_HOLD",
+      "words": "On hold"
+    },
+    {
+      "id": "2f-downtown-81",
+      "floor": "2",
+      "piece": "Downtown 81",
+      "playback": "BrightSign",
+      "state": "MANUAL",
+      "words": "Check by eye"
+    },
+    {
+      "id": "3f-akingdoncomethas",
+      "floor": "3",
+      "piece": "akingdoncomethas (2018)",
+      "playback": "Mac mini",
+      "state": "NOT_SET_UP",
+      "words": "Not set up yet"
+    },
+    {
+      "id": "3f-the-white-album",
+      "floor": "3",
+      "piece": "The White Album (2018)",
+      "playback": "Mac mini",
+      "state": "NOT_SET_UP",
+      "words": "Not set up yet"
+    },
+    {
+      "id": "3f-mj",
+      "floor": "3",
+      "piece": "MJ (new work, 2026)",
+      "playback": "Mac mini",
+      "state": "NOT_SET_UP",
+      "words": "Not set up yet"
+    },
+    {
+      "id": "3f-townshend",
+      "floor": "3",
+      "piece": "Townshend (2025)",
+      "playback": "Mac mini",
+      "state": "NOT_SET_UP",
+      "words": "Not set up yet"
+    },
+    {
+      "id": "3f-love-is-the-message",
+      "floor": "3",
+      "piece": "Love is the Message, The Message is Death (2016)",
+      "playback": "Mac mini",
+      "state": "NOT_SET_UP",
+      "words": "Not set up yet"
+    },
+    {
+      "id": "3f-slopex",
+      "floor": "3",
+      "piece": "SloPEX (2022)",
+      "playback": "Mac mini",
+      "state": "NOT_SET_UP",
+      "words": "Not set up yet"
+    },
+    {
+      "id": "4f-aghdra",
+      "floor": "4",
+      "piece": "AGHDRA (2021)",
+      "playback": "2 Macs: sound Mac + video Mac",
+      "state": "NOT_SET_UP",
+      "words": "Not set up yet"
+    },
+    {
+      "id": "4f-ben-gazzara",
+      "floor": "4",
+      "piece": "BEN GAZZARA (2024)",
+      "playback": "Mac with monitor",
+      "state": "NOT_SET_UP",
+      "words": "Not set up yet"
+    }
+  ]
+}
