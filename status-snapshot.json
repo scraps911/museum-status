@@ -1,6 +1,6 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-18T17:56:51-04:00",
+  "made": "2026-10-18T18:02:00-04:00",
   "summary": "Nothing needs help",
   "counts": {
     "playing": 0,
@@ -108,8 +108,8 @@
       "floor": "test",
       "piece": "Test (MacBook Air test install)",
       "playback": "MacBook Air",
-      "state": "NOT_SET_UP",
-      "words": "Not set up yet"
+      "state": "PLAYING",
+      "words": "Playing (1 min today)"
     }
   ]
 }
