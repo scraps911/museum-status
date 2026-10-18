@@ -1,6 +1,6 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-18T18:58:16-04:00",
+  "made": "2026-10-18T19:03:22-04:00",
   "summary": "Nothing needs help",
   "counts": {
     "playing": 0,
@@ -20,8 +20,8 @@
       "floor": "test",
       "piece": "Test (the spare M1's test show, not a gallery piece)",
       "playback": "spare M1",
-      "state": "NEEDS_HELP",
-      "words": "Needs help: ask AV"
+      "state": "PLAYING",
+      "words": "Playing (729 min today)"
     },
     {
       "id": "2f-marcon-arrivederci-piggies",
