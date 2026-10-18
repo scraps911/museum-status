@@ -1,6 +1,6 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-18T18:02:00-04:00",
+  "made": "2026-10-18T18:07:10-04:00",
   "summary": "Nothing needs help",
   "counts": {
     "playing": 0,
@@ -20,8 +20,8 @@
       "floor": "test",
       "piece": "Test (the spare M1's test show, not a gallery piece)",
       "playback": "spare M1",
-      "state": "STOPPED",
-      "words": "Stopped (not by the Off button)"
+      "state": "PLAYING",
+      "words": "Playing (696 min today)"
     },
     {
       "id": "2f-marcon-arrivederci-piggies",
@@ -109,7 +109,7 @@
       "piece": "Test (MacBook Air test install)",
       "playback": "MacBook Air",
       "state": "PLAYING",
-      "words": "Playing (1 min today)"
+      "words": "Playing (3 min today)"
     }
   ]
 }
