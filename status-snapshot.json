@@ -1,6 +1,6 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-18T14:01:51-04:00",
+  "made": "2026-10-18T14:06:53-04:00",
   "summary": "Nothing needs help",
   "counts": {
     "playing": 0,
@@ -15,6 +15,14 @@
     "not_set_up": 8
   },
   "pieces": [
+    {
+      "id": "m1-test",
+      "floor": "test",
+      "piece": "Test (the spare M1's test show, not a gallery piece)",
+      "playback": "spare M1, QLab 5.5.1 free",
+      "state": "PLAYING",
+      "words": "Playing (630 min today)"
+    },
     {
       "id": "2f-marcon-arrivederci-piggies",
       "floor": "2",
