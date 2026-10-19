@@ -1,14 +1,14 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-19T19:29:29-04:00",
-  "summary": "2 pieces need a look",
+  "made": "2026-10-19T19:34:50-04:00",
+  "summary": "1 piece needs a look",
   "counts": {
     "playing": 1,
-    "off": 3,
+    "off": 4,
     "stopped": 1,
     "recovering": 0,
     "needs_help": 0,
-    "no_answer": 1,
+    "no_answer": 0,
     "qlab_not_ready": 0,
     "manual": 1,
     "on_hold": 0,
@@ -77,7 +77,7 @@
       "piece": "Love is the Message, The Message is Death (2016)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (80 min today)"
+      "words": "Playing (84 min today)"
     },
     {
       "id": "3f-slopex",
@@ -100,8 +100,8 @@
       "floor": "4",
       "piece": "BEN GAZZARA (2024)",
       "playback": "Mac with monitor",
-      "state": "NO_ANSWER",
-      "words": "No answer from its computer"
+      "state": "OFF",
+      "words": "Switched off"
     },
     {
       "id": "test",
