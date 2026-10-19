@@ -1,6 +1,6 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-19T14:15:49-04:00",
+  "made": "2026-10-19T14:21:00-04:00",
   "summary": "2 pieces need a look",
   "counts": {
     "playing": 3,
@@ -61,7 +61,7 @@
       "piece": "MJ (new work, 2026)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (103 min today)"
+      "words": "Playing (108 min today)"
     },
     {
       "id": "3f-townshend",
@@ -93,7 +93,7 @@
       "piece": "AGHDRA (2021)",
       "playback": "2 Macs: sound Mac + video Mac",
       "state": "PLAYING",
-      "words": "Playing (117 min today)"
+      "words": "Playing (121 min today)"
     },
     {
       "id": "4f-ben-gazzara",
@@ -101,7 +101,7 @@
       "piece": "BEN GAZZARA (2024)",
       "playback": "Mac with monitor",
       "state": "PLAYING",
-      "words": "Playing (54 min today)"
+      "words": "Playing (58 min today)"
     },
     {
       "id": "test",
@@ -109,7 +109,7 @@
       "piece": "Test (MacBook Air test install)",
       "playback": "MacBook Air",
       "state": "PLAYING",
-      "words": "Playing (721 min today)"
+      "words": "Playing (725 min today)"
     }
   ]
 }
