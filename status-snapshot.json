@@ -1,6 +1,6 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-19T18:09:50-04:00",
+  "made": "2026-10-19T18:15:02-04:00",
   "summary": "2 pieces need a look",
   "counts": {
     "playing": 2,
@@ -61,7 +61,7 @@
       "piece": "MJ (new work, 2026)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (305 min today)"
+      "words": "Playing (309 min today)"
     },
     {
       "id": "3f-townshend",
@@ -77,7 +77,7 @@
       "piece": "Love is the Message, The Message is Death (2016)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (29 min today)"
+      "words": "Playing (33 min today)"
     },
     {
       "id": "3f-slopex",
