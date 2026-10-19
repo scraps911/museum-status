@@ -1,9 +1,9 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-19T11:35:07-04:00",
+  "made": "2026-10-19T11:40:17-04:00",
   "summary": "Nothing needs help",
   "counts": {
-    "playing": 0,
+    "playing": 1,
     "off": 0,
     "stopped": 0,
     "recovering": 0,
@@ -11,7 +11,7 @@
     "no_answer": 0,
     "qlab_not_ready": 0,
     "manual": 1,
-    "on_hold": 1,
+    "on_hold": 0,
     "not_set_up": 8
   },
   "pieces": [
@@ -28,8 +28,8 @@
       "floor": "2",
       "piece": "Marcon: Ludwig (2018), The Parents' Room (2021), Fritz (2024), Krapfen (2025)",
       "playback": "Mac Studio",
-      "state": "ON_HOLD",
-      "words": "On hold"
+      "state": "PLAYING",
+      "words": "Playing (18 min today)"
     },
     {
       "id": "2f-downtown-81",
@@ -109,7 +109,7 @@
       "piece": "Test (MacBook Air test install)",
       "playback": "MacBook Air",
       "state": "PLAYING",
-      "words": "Playing (586 min today)"
+      "words": "Playing (590 min today)"
     }
   ]
 }
