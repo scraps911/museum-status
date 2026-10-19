@@ -1,10 +1,10 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-19T14:58:07-04:00",
+  "made": "2026-10-19T15:06:43-04:00",
   "summary": "2 pieces need a look",
   "counts": {
-    "playing": 3,
-    "off": 0,
+    "playing": 2,
+    "off": 1,
     "stopped": 1,
     "recovering": 0,
     "needs_help": 1,
@@ -61,7 +61,7 @@
       "piece": "MJ (new work, 2026)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (140 min today)"
+      "words": "Playing (147 min today)"
     },
     {
       "id": "3f-townshend",
@@ -84,8 +84,8 @@
       "floor": "3",
       "piece": "SloPEX (2022)",
       "playback": "Mac mini",
-      "state": "PLAYING",
-      "words": "Playing (24 min today)"
+      "state": "OFF",
+      "words": "Switched off"
     },
     {
       "id": "4f-aghdra",
@@ -101,7 +101,7 @@
       "piece": "BEN GAZZARA (2024)",
       "playback": "Mac with monitor",
       "state": "PLAYING",
-      "words": "Playing (90 min today)"
+      "words": "Playing (97 min today)"
     },
     {
       "id": "test",
@@ -109,7 +109,7 @@
       "piece": "Test (MacBook Air test install)",
       "playback": "MacBook Air",
       "state": "PLAYING",
-      "words": "Playing (756 min today)"
+      "words": "Playing (764 min today)"
     }
   ]
 }
