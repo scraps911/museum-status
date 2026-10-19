@@ -1,13 +1,13 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-19T13:39:25-04:00",
-  "summary": "1 piece needs a look",
+  "made": "2026-10-19T13:44:37-04:00",
+  "summary": "2 pieces need a look",
   "counts": {
-    "playing": 4,
+    "playing": 3,
     "off": 0,
     "stopped": 1,
     "recovering": 0,
-    "needs_help": 0,
+    "needs_help": 1,
     "no_answer": 0,
     "qlab_not_ready": 0,
     "manual": 1,
@@ -28,8 +28,8 @@
       "floor": "2",
       "piece": "Marcon: Ludwig (2018), The Parents' Room (2021), Fritz (2024), Krapfen (2025)",
       "playback": "Mac Studio",
-      "state": "PLAYING",
-      "words": "Playing (117 min today)"
+      "state": "NEEDS_HELP",
+      "words": "Needs help: Reset did not work"
     },
     {
       "id": "2f-downtown-81",
@@ -61,7 +61,7 @@
       "piece": "MJ (new work, 2026)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (72 min today)"
+      "words": "Playing (76 min today)"
     },
     {
       "id": "3f-townshend",
@@ -93,7 +93,7 @@
       "piece": "AGHDRA (2021)",
       "playback": "2 Macs: sound Mac + video Mac",
       "state": "PLAYING",
-      "words": "Playing (86 min today)"
+      "words": "Playing (91 min today)"
     },
     {
       "id": "4f-ben-gazzara",
@@ -101,15 +101,15 @@
       "piece": "BEN GAZZARA (2024)",
       "playback": "Mac with monitor",
       "state": "PLAYING",
-      "words": "Playing (23 min today)"
+      "words": "Playing (28 min today)"
     },
     {
       "id": "test",
       "floor": "test",
       "piece": "Test (MacBook Air test install)",
       "playback": "MacBook Air",
-      "state": "NOT_SET_UP",
-      "words": "Not set up yet"
+      "state": "PLAYING",
+      "words": "Playing (694 min today)"
     }
   ]
 }
