@@ -1,6 +1,6 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-19T15:17:06-04:00",
+  "made": "2026-10-19T15:22:16-04:00",
   "summary": "2 pieces need a look",
   "counts": {
     "playing": 2,
@@ -61,7 +61,7 @@
       "piece": "MJ (new work, 2026)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (156 min today)"
+      "words": "Playing (160 min today)"
     },
     {
       "id": "3f-townshend",
@@ -101,7 +101,7 @@
       "piece": "BEN GAZZARA (2024)",
       "playback": "Mac with monitor",
       "state": "PLAYING",
-      "words": "Playing (106 min today)"
+      "words": "Playing (110 min today)"
     },
     {
       "id": "test",
@@ -109,7 +109,7 @@
       "piece": "Test (MacBook Air test install)",
       "playback": "MacBook Air",
       "state": "PLAYING",
-      "words": "Playing (772 min today)"
+      "words": "Playing (777 min today)"
     }
   ]
 }
