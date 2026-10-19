@@ -1,6 +1,6 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-19T16:55:46-04:00",
+  "made": "2026-10-19T17:00:57-04:00",
   "summary": "2 pieces need a look",
   "counts": {
     "playing": 1,
@@ -61,7 +61,7 @@
       "piece": "MJ (new work, 2026)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (241 min today)"
+      "words": "Playing (246 min today)"
     },
     {
       "id": "3f-townshend",
