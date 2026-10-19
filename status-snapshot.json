@@ -1,6 +1,6 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-19T13:13:32-04:00",
+  "made": "2026-10-19T13:18:42-04:00",
   "summary": "Nothing needs help",
   "counts": {
     "playing": 3,
@@ -29,7 +29,7 @@
       "piece": "Marcon: Ludwig (2018), The Parents' Room (2021), Fritz (2024), Krapfen (2025)",
       "playback": "Mac Studio",
       "state": "PLAYING",
-      "words": "Playing (95 min today)"
+      "words": "Playing (100 min today)"
     },
     {
       "id": "2f-downtown-81",
@@ -61,7 +61,7 @@
       "piece": "MJ (new work, 2026)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (49 min today)"
+      "words": "Playing (54 min today)"
     },
     {
       "id": "3f-townshend",
@@ -93,7 +93,7 @@
       "piece": "AGHDRA (2021)",
       "playback": "2 Macs: sound Mac + video Mac",
       "state": "PLAYING",
-      "words": "Playing (64 min today)"
+      "words": "Playing (69 min today)"
     },
     {
       "id": "4f-ben-gazzara",
@@ -109,7 +109,7 @@
       "piece": "Test (MacBook Air test install)",
       "playback": "MacBook Air",
       "state": "PLAYING",
-      "words": "Playing (668 min today)"
+      "words": "Playing (673 min today)"
     }
   ]
 }
