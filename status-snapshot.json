@@ -1,6 +1,6 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-20T14:12:13-04:00",
+  "made": "2026-10-20T14:17:22-04:00",
   "summary": "5 pieces need a look",
   "counts": {
     "playing": 4,
@@ -77,7 +77,7 @@
       "piece": "Love is the Message, The Message is Death (2016)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (214 min today)"
+      "words": "Playing (219 min today)"
     },
     {
       "id": "3f-slopex",
@@ -85,7 +85,7 @@
       "piece": "SloPEX (2022)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (214 min today)"
+      "words": "Playing (218 min today)"
     },
     {
       "id": "4f-aghdra",
@@ -93,7 +93,7 @@
       "piece": "AGHDRA (2021)",
       "playback": "2 Macs: sound Mac + video Mac",
       "state": "PLAYING",
-      "words": "Playing (212 min today)"
+      "words": "Playing (216 min today)"
     },
     {
       "id": "4f-ben-gazzara",
@@ -101,7 +101,7 @@
       "piece": "BEN GAZZARA (2024)",
       "playback": "Mac with monitor",
       "state": "PLAYING",
-      "words": "Playing (214 min today)"
+      "words": "Playing (219 min today)"
     },
     {
       "id": "test",
