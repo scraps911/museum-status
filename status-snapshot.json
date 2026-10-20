@@ -1,6 +1,6 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-19T21:37:31-04:00",
+  "made": "2026-10-19T21:42:43-04:00",
   "summary": "1 piece needs a look",
   "counts": {
     "playing": 1,
@@ -69,7 +69,7 @@
       "piece": "Townshend (2025)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (52 min today)"
+      "words": "Playing (56 min today)"
     },
     {
       "id": "3f-love-is-the-message",
