@@ -1,11 +1,11 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-20T00:14:34-04:00",
-  "summary": "1 piece needs a look",
+  "made": "2026-10-20T00:19:49-04:00",
+  "summary": "Nothing needs help",
   "counts": {
     "playing": 0,
-    "off": 7,
-    "stopped": 1,
+    "off": 8,
+    "stopped": 0,
     "recovering": 0,
     "needs_help": 0,
     "no_answer": 0,
@@ -92,8 +92,8 @@
       "floor": "4",
       "piece": "AGHDRA (2021)",
       "playback": "2 Macs: sound Mac + video Mac",
-      "state": "STOPPED",
-      "words": "Stopped (not by the Off button)"
+      "state": "OFF",
+      "words": "Switched off"
     },
     {
       "id": "4f-ben-gazzara",
@@ -108,8 +108,8 @@
       "floor": "test",
       "piece": "Test (MacBook Air test install)",
       "playback": "MacBook Air",
-      "state": "STOPPED",
-      "words": "Stopped (not by the Off button)"
+      "state": "NO_ANSWER",
+      "words": "No answer from its computer"
     }
   ]
 }
