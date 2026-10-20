@@ -1,6 +1,6 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-19T20:01:54-04:00",
+  "made": "2026-10-19T20:07:08-04:00",
   "summary": "1 piece needs a look",
   "counts": {
     "playing": 1,
@@ -20,8 +20,8 @@
       "floor": "test",
       "piece": "Test (the spare M1's test show, not a gallery piece)",
       "playback": "spare M1",
-      "state": "NO_ANSWER",
-      "words": "Status is old: not guessed"
+      "state": "STOPPED",
+      "words": "Stopped (not by the Off button)"
     },
     {
       "id": "2f-marcon-arrivederci-piggies",
@@ -69,7 +69,7 @@
       "piece": "Townshend (2025)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (20 min today)"
+      "words": "Playing (25 min today)"
     },
     {
       "id": "3f-love-is-the-message",
