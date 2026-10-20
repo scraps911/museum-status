@@ -1,6 +1,6 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-20T00:19:49-04:00",
+  "made": "2026-10-20T00:25:02-04:00",
   "summary": "Nothing needs help",
   "counts": {
     "playing": 0,
@@ -108,8 +108,8 @@
       "floor": "test",
       "piece": "Test (MacBook Air test install)",
       "playback": "MacBook Air",
-      "state": "NO_ANSWER",
-      "words": "No answer from its computer"
+      "state": "STOPPED",
+      "words": "Stopped (not by the Off button)"
     }
   ]
 }
