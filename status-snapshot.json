@@ -1,6 +1,6 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-19T20:43:53-04:00",
+  "made": "2026-10-19T20:49:12-04:00",
   "summary": "1 piece needs a look",
   "counts": {
     "playing": 0,
@@ -108,8 +108,8 @@
       "floor": "test",
       "piece": "Test (MacBook Air test install)",
       "playback": "MacBook Air",
-      "state": "STOPPED",
-      "words": "Stopped (not by the Off button)"
+      "state": "NO_ANSWER",
+      "words": "Status is old: not guessed"
     }
   ]
 }
