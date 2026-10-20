@@ -1,6 +1,6 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-19T22:24:19-04:00",
+  "made": "2026-10-19T22:29:32-04:00",
   "summary": "2 pieces need a look",
   "counts": {
     "playing": 1,
@@ -53,7 +53,7 @@
       "piece": "The White Album (2018)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (24 min today)"
+      "words": "Playing (28 min today)"
     },
     {
       "id": "3f-mj",
