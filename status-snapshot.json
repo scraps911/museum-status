@@ -1,6 +1,6 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-19T22:39:56-04:00",
+  "made": "2026-10-19T22:45:10-04:00",
   "summary": "2 pieces need a look",
   "counts": {
     "playing": 2,
@@ -53,7 +53,7 @@
       "piece": "The White Album (2018)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (37 min today)"
+      "words": "Playing (42 min today)"
     },
     {
       "id": "3f-mj",
@@ -77,7 +77,7 @@
       "piece": "Love is the Message, The Message is Death (2016)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (95 min today)"
+      "words": "Playing (99 min today)"
     },
     {
       "id": "3f-slopex",
