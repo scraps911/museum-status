@@ -1,6 +1,6 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-20T13:36:08-04:00",
+  "made": "2026-10-20T13:41:19-04:00",
   "summary": "5 pieces need a look",
   "counts": {
     "playing": 4,
@@ -20,8 +20,8 @@
       "floor": "test",
       "piece": "Test (the spare M1's test show, not a gallery piece)",
       "playback": "spare M1",
-      "state": "NEEDS_HELP",
-      "words": "Needs help: Did not switch on"
+      "state": "ON_HOLD",
+      "words": "On hold"
     },
     {
       "id": "2f-marcon-arrivederci-piggies",
@@ -77,7 +77,7 @@
       "piece": "Love is the Message, The Message is Death (2016)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (183 min today)"
+      "words": "Playing (188 min today)"
     },
     {
       "id": "3f-slopex",
@@ -85,7 +85,7 @@
       "piece": "SloPEX (2022)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (183 min today)"
+      "words": "Playing (187 min today)"
     },
     {
       "id": "4f-aghdra",
@@ -93,7 +93,7 @@
       "piece": "AGHDRA (2021)",
       "playback": "2 Macs: sound Mac + video Mac",
       "state": "PLAYING",
-      "words": "Playing (181 min today)"
+      "words": "Playing (186 min today)"
     },
     {
       "id": "4f-ben-gazzara",
@@ -101,7 +101,7 @@
       "piece": "BEN GAZZARA (2024)",
       "playback": "Mac with monitor",
       "state": "PLAYING",
-      "words": "Playing (183 min today)"
+      "words": "Playing (188 min today)"
     },
     {
       "id": "test",
