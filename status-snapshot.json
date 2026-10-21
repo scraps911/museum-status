@@ -1,10 +1,10 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-20T21:46:46-04:00",
+  "made": "2026-10-20T21:51:56-04:00",
   "summary": "Nothing needs help",
   "counts": {
-    "playing": 4,
-    "off": 5,
+    "playing": 2,
+    "off": 7,
     "stopped": 0,
     "recovering": 0,
     "needs_help": 0,
@@ -44,8 +44,8 @@
       "floor": "3",
       "piece": "akingdoncomethas (2018)",
       "playback": "Mac mini",
-      "state": "PLAYING",
-      "words": "Playing (600 min today)"
+      "state": "OFF",
+      "words": "Switched off"
     },
     {
       "id": "3f-the-white-album",
@@ -69,7 +69,7 @@
       "piece": "Townshend (2025)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (576 min today)"
+      "words": "Playing (580 min today)"
     },
     {
       "id": "3f-love-is-the-message",
@@ -92,8 +92,8 @@
       "floor": "4",
       "piece": "AGHDRA (2021)",
       "playback": "2 Macs: sound Mac + video Mac",
-      "state": "PLAYING",
-      "words": "Playing (594 min today)"
+      "state": "OFF",
+      "words": "Switched off"
     },
     {
       "id": "4f-ben-gazzara",
@@ -101,7 +101,7 @@
       "piece": "BEN GAZZARA (2024)",
       "playback": "Mac with monitor",
       "state": "PLAYING",
-      "words": "Playing (598 min today)"
+      "words": "Playing (602 min today)"
     },
     {
       "id": "test",
