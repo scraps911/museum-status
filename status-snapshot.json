@@ -1,10 +1,10 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-20T21:36:25-04:00",
+  "made": "2026-10-20T21:41:36-04:00",
   "summary": "Nothing needs help",
   "counts": {
-    "playing": 8,
-    "off": 1,
+    "playing": 6,
+    "off": 3,
     "stopped": 0,
     "recovering": 0,
     "needs_help": 0,
@@ -45,7 +45,7 @@
       "piece": "akingdoncomethas (2018)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (592 min today)"
+      "words": "Playing (596 min today)"
     },
     {
       "id": "3f-the-white-album",
@@ -53,15 +53,15 @@
       "piece": "The White Album (2018)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (558 min today)"
+      "words": "Playing (562 min today)"
     },
     {
       "id": "3f-mj",
       "floor": "3",
       "piece": "MJ (new work, 2026)",
       "playback": "Mac mini",
-      "state": "PLAYING",
-      "words": "Playing (575 min today)"
+      "state": "OFF",
+      "words": "Switched off"
     },
     {
       "id": "3f-townshend",
@@ -69,7 +69,7 @@
       "piece": "Townshend (2025)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (568 min today)"
+      "words": "Playing (572 min today)"
     },
     {
       "id": "3f-love-is-the-message",
@@ -77,15 +77,15 @@
       "piece": "Love is the Message, The Message is Death (2016)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (596 min today)"
+      "words": "Playing (601 min today)"
     },
     {
       "id": "3f-slopex",
       "floor": "3",
       "piece": "SloPEX (2022)",
       "playback": "Mac mini",
-      "state": "PLAYING",
-      "words": "Playing (592 min today)"
+      "state": "OFF",
+      "words": "Switched off"
     },
     {
       "id": "4f-aghdra",
@@ -93,7 +93,7 @@
       "piece": "AGHDRA (2021)",
       "playback": "2 Macs: sound Mac + video Mac",
       "state": "PLAYING",
-      "words": "Playing (585 min today)"
+      "words": "Playing (590 min today)"
     },
     {
       "id": "4f-ben-gazzara",
@@ -101,7 +101,7 @@
       "piece": "BEN GAZZARA (2024)",
       "playback": "Mac with monitor",
       "state": "PLAYING",
-      "words": "Playing (589 min today)"
+      "words": "Playing (593 min today)"
     },
     {
       "id": "test",
