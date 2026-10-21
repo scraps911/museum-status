@@ -1,10 +1,10 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-20T21:41:36-04:00",
+  "made": "2026-10-20T21:46:46-04:00",
   "summary": "Nothing needs help",
   "counts": {
-    "playing": 6,
-    "off": 3,
+    "playing": 4,
+    "off": 5,
     "stopped": 0,
     "recovering": 0,
     "needs_help": 0,
@@ -45,15 +45,15 @@
       "piece": "akingdoncomethas (2018)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (596 min today)"
+      "words": "Playing (600 min today)"
     },
     {
       "id": "3f-the-white-album",
       "floor": "3",
       "piece": "The White Album (2018)",
       "playback": "Mac mini",
-      "state": "PLAYING",
-      "words": "Playing (562 min today)"
+      "state": "OFF",
+      "words": "Switched off"
     },
     {
       "id": "3f-mj",
@@ -69,15 +69,15 @@
       "piece": "Townshend (2025)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (572 min today)"
+      "words": "Playing (576 min today)"
     },
     {
       "id": "3f-love-is-the-message",
       "floor": "3",
       "piece": "Love is the Message, The Message is Death (2016)",
       "playback": "Mac mini",
-      "state": "PLAYING",
-      "words": "Playing (601 min today)"
+      "state": "OFF",
+      "words": "Switched off"
     },
     {
       "id": "3f-slopex",
@@ -93,7 +93,7 @@
       "piece": "AGHDRA (2021)",
       "playback": "2 Macs: sound Mac + video Mac",
       "state": "PLAYING",
-      "words": "Playing (590 min today)"
+      "words": "Playing (594 min today)"
     },
     {
       "id": "4f-ben-gazzara",
@@ -101,7 +101,7 @@
       "piece": "BEN GAZZARA (2024)",
       "playback": "Mac with monitor",
       "state": "PLAYING",
-      "words": "Playing (593 min today)"
+      "words": "Playing (598 min today)"
     },
     {
       "id": "test",
