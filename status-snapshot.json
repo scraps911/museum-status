@@ -1,14 +1,14 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-21T08:34:28-04:00",
-  "summary": "1 piece needs a look",
+  "made": "2026-10-21T08:39:38-04:00",
+  "summary": "Nothing needs help",
   "counts": {
     "playing": 0,
-    "off": 8,
+    "off": 9,
     "stopped": 0,
     "recovering": 0,
     "needs_help": 0,
-    "no_answer": 1,
+    "no_answer": 0,
     "qlab_not_ready": 0,
     "manual": 1,
     "on_hold": 0,
@@ -44,8 +44,8 @@
       "floor": "3",
       "piece": "akingdoncomethas (2018)",
       "playback": "Mac mini",
-      "state": "NO_ANSWER",
-      "words": "No answer from its computer"
+      "state": "OFF",
+      "words": "Switched off"
     },
     {
       "id": "3f-the-white-album",
