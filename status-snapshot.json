@@ -1,10 +1,10 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-21T20:41:20-04:00",
+  "made": "2026-10-21T20:46:33-04:00",
   "summary": "Nothing needs help",
   "counts": {
-    "playing": 0,
-    "off": 9,
+    "playing": 8,
+    "off": 1,
     "stopped": 0,
     "recovering": 0,
     "needs_help": 0,
@@ -28,8 +28,8 @@
       "floor": "2",
       "piece": "Marcon: Ludwig (2018), The Parents' Room (2021), Fritz (2024), Krapfen (2025)",
       "playback": "Mac Studio",
-      "state": "OFF",
-      "words": "Switched off"
+      "state": "PLAYING",
+      "words": "Playing (503 min today)"
     },
     {
       "id": "2f-downtown-81",
@@ -44,40 +44,40 @@
       "floor": "3",
       "piece": "akingdoncomethas (2018)",
       "playback": "Mac mini",
-      "state": "OFF",
-      "words": "Switched off"
+      "state": "PLAYING",
+      "words": "Playing (505 min today)"
     },
     {
       "id": "3f-the-white-album",
       "floor": "3",
       "piece": "The White Album (2018)",
       "playback": "Mac mini",
-      "state": "OFF",
-      "words": "Switched off"
+      "state": "PLAYING",
+      "words": "Playing (507 min today)"
     },
     {
       "id": "3f-mj",
       "floor": "3",
       "piece": "MJ (new work, 2026)",
       "playback": "Mac mini",
-      "state": "OFF",
-      "words": "Switched off"
+      "state": "PLAYING",
+      "words": "Playing (510 min today)"
     },
     {
       "id": "3f-townshend",
       "floor": "3",
       "piece": "Townshend (2025)",
       "playback": "Mac mini",
-      "state": "OFF",
-      "words": "Switched off"
+      "state": "PLAYING",
+      "words": "Playing (502 min today)"
     },
     {
       "id": "3f-love-is-the-message",
       "floor": "3",
       "piece": "Love is the Message, The Message is Death (2016)",
       "playback": "Mac mini",
-      "state": "OFF",
-      "words": "Switched off"
+      "state": "PLAYING",
+      "words": "Playing (519 min today)"
     },
     {
       "id": "3f-slopex",
@@ -92,16 +92,16 @@
       "floor": "4",
       "piece": "AGHDRA (2021)",
       "playback": "2 Macs: sound Mac + video Mac",
-      "state": "OFF",
-      "words": "Switched off"
+      "state": "PLAYING",
+      "words": "Playing (506 min today)"
     },
     {
       "id": "4f-ben-gazzara",
       "floor": "4",
       "piece": "BEN GAZZARA (2024)",
       "playback": "Mac with monitor",
-      "state": "OFF",
-      "words": "Switched off"
+      "state": "PLAYING",
+      "words": "Playing (503 min today)"
     },
     {
       "id": "test",
