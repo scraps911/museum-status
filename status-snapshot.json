@@ -1,6 +1,6 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-24T17:43:49-04:00",
+  "made": "2026-10-24T17:49:12-04:00",
   "summary": "Nothing needs help",
   "counts": {
     "playing": 9,
@@ -29,7 +29,7 @@
       "piece": "Marcon: Ludwig (2018), The Parents' Room (2021), Fritz (2024), Krapfen (2025)",
       "playback": "Mac Studio",
       "state": "PLAYING",
-      "words": "Playing (873 min today)"
+      "words": "Playing (877 min today)"
     },
     {
       "id": "2f-downtown-81",
@@ -45,7 +45,7 @@
       "piece": "akingdoncomethas (2018)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (905 min today)"
+      "words": "Playing (910 min today)"
     },
     {
       "id": "3f-the-white-album",
@@ -53,7 +53,7 @@
       "piece": "The White Album (2018)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (917 min today)"
+      "words": "Playing (922 min today)"
     },
     {
       "id": "3f-mj",
@@ -61,7 +61,7 @@
       "piece": "MJ (new work, 2026)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (911 min today)"
+      "words": "Playing (915 min today)"
     },
     {
       "id": "3f-townshend",
@@ -69,7 +69,7 @@
       "piece": "Townshend (2025)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (870 min today)"
+      "words": "Playing (874 min today)"
     },
     {
       "id": "3f-love-is-the-message",
@@ -77,7 +77,7 @@
       "piece": "Love is the Message, The Message is Death (2016)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (878 min today)"
+      "words": "Playing (883 min today)"
     },
     {
       "id": "3f-slopex",
@@ -85,7 +85,7 @@
       "piece": "SloPEX (2022)",
       "playback": "Mac mini",
       "state": "PLAYING",
-      "words": "Playing (875 min today)"
+      "words": "Playing (880 min today)"
     },
     {
       "id": "4f-aghdra",
@@ -93,7 +93,7 @@
       "piece": "AGHDRA (2021)",
       "playback": "2 Macs: sound Mac + video Mac",
       "state": "PLAYING",
-      "words": "Playing (859 min today)"
+      "words": "Playing (863 min today)"
     },
     {
       "id": "4f-ben-gazzara",
@@ -101,7 +101,7 @@
       "piece": "BEN GAZZARA (2024)",
       "playback": "Mac with monitor",
       "state": "PLAYING",
-      "words": "Playing (869 min today)"
+      "words": "Playing (874 min today)"
     },
     {
       "id": "test",
