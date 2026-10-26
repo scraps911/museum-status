@@ -1,14 +1,14 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-26T03:08:40-04:00",
-  "summary": "Nothing needs help",
+  "made": "2026-10-26T03:13:53-04:00",
+  "summary": "1 piece needs a look",
   "counts": {
     "playing": 0,
-    "off": 9,
+    "off": 8,
     "stopped": 0,
     "recovering": 0,
     "needs_help": 0,
-    "no_answer": 0,
+    "no_answer": 1,
     "qlab_not_ready": 0,
     "manual": 1,
     "on_hold": 0,
@@ -92,8 +92,8 @@
       "floor": "4",
       "piece": "AGHDRA (2021)",
       "playback": "2 Macs: sound Mac + video Mac",
-      "state": "OFF",
-      "words": "Switched off"
+      "state": "NO_ANSWER",
+      "words": "No answer from its computer"
     },
     {
       "id": "4f-ben-gazzara",
