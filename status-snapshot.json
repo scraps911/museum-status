@@ -1,14 +1,14 @@
 {
   "format": "museum-status/1",
-  "made": "2026-10-28T11:18:19-04:00",
-  "summary": "Nothing needs help",
+  "made": "2026-10-28T11:29:33-04:00",
+  "summary": "9 pieces need a look",
   "counts": {
-    "playing": 9,
+    "playing": 0,
     "off": 0,
     "stopped": 0,
     "recovering": 0,
     "needs_help": 0,
-    "no_answer": 0,
+    "no_answer": 9,
     "qlab_not_ready": 0,
     "manual": 1,
     "on_hold": 0,
@@ -28,8 +28,8 @@
       "floor": "2",
       "piece": "Marcon: Ludwig (2018), The Parents' Room (2021), Fritz (2024), Krapfen (2025)",
       "playback": "Mac Studio",
-      "state": "PLAYING",
-      "words": "Playing (74 min today)"
+      "state": "NO_ANSWER",
+      "words": "No answer from its computer"
     },
     {
       "id": "2f-downtown-81",
@@ -44,64 +44,64 @@
       "floor": "3",
       "piece": "akingdoncomethas (2018)",
       "playback": "Mac mini",
-      "state": "PLAYING",
-      "words": "Playing (74 min today)"
+      "state": "NO_ANSWER",
+      "words": "No answer from its computer"
     },
     {
       "id": "3f-the-white-album",
       "floor": "3",
       "piece": "The White Album (2018)",
       "playback": "Mac mini",
-      "state": "PLAYING",
-      "words": "Playing (75 min today)"
+      "state": "NO_ANSWER",
+      "words": "No answer from its computer"
     },
     {
       "id": "3f-mj",
       "floor": "3",
       "piece": "MJ (new work, 2026)",
       "playback": "Mac mini",
-      "state": "PLAYING",
-      "words": "Playing (75 min today)"
+      "state": "NO_ANSWER",
+      "words": "No answer from its computer"
     },
     {
       "id": "3f-townshend",
       "floor": "3",
       "piece": "Townshend (2025)",
       "playback": "Mac mini",
-      "state": "PLAYING",
-      "words": "Playing (76 min today)"
+      "state": "NO_ANSWER",
+      "words": "No answer from its computer"
     },
     {
       "id": "3f-love-is-the-message",
       "floor": "3",
       "piece": "Love is the Message, The Message is Death (2016)",
       "playback": "Mac mini",
-      "state": "PLAYING",
-      "words": "Playing (71 min today)"
+      "state": "NO_ANSWER",
+      "words": "No answer from its computer"
     },
     {
       "id": "3f-slopex",
       "floor": "3",
       "piece": "SloPEX (2022)",
       "playback": "Mac mini",
-      "state": "PLAYING",
-      "words": "Playing (71 min today)"
+      "state": "NO_ANSWER",
+      "words": "No answer from its computer"
     },
     {
       "id": "4f-aghdra",
       "floor": "4",
       "piece": "AGHDRA (2021)",
       "playback": "2 Macs: sound Mac + video Mac",
-      "state": "PLAYING",
-      "words": "Playing (80 min today)"
+      "state": "NO_ANSWER",
+      "words": "No answer from its computer"
     },
     {
       "id": "4f-ben-gazzara",
       "floor": "4",
       "piece": "BEN GAZZARA (2024)",
       "playback": "Mac with monitor",
-      "state": "PLAYING",
-      "words": "Playing (71 min today)"
+      "state": "NO_ANSWER",
+      "words": "No answer from its computer"
     },
     {
       "id": "test",
